@@ -1,6 +1,0 @@
-[submodule "papi"]
-	path = papi
-	url = ./OpenBLAS/
-[submodule "perfmon2-libpfm4"]
-	path = perfmon2-libpfm4
-	url = ./perfmon2-libpfm4/
