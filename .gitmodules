@@ -1,0 +1,9 @@
+[submodule "OpenBLAS"]
+	path = OpenBLAS
+	url = https://github.com/xianyi/OpenBLAS.git
+[submodule "papi"]
+	path = papi
+	url = https://github.com/pyrovski/papi.git
+[submodule "perfmon2-libpfm4"]
+	path = perfmon2-libpfm4
+	url = https://git.code.sf.net/p/perfmon2/libpfm4
