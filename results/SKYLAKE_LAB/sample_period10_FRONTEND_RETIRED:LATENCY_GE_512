@@ -1,0 +1,18 @@
+PERF_RECORD_SAMPLE [91], MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 55a0e5a4ea40
+	PERF_SAMPLE_CPU, cpu: 2  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 247927 running: 247927 
+			Value: 10 id: 60525 
+PERF_RECORD_SAMPLE [91], MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7ff2691a98bb
+	PERF_SAMPLE_CPU, cpu: 2  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 631808 running: 631808 
+			Value: 20 id: 60525 
+PERF_RECORD_SAMPLE [91], MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 55a0e5a8c9ba
+	PERF_SAMPLE_CPU, cpu: 2  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 673286 running: 673286 
+			Value: 30 id: 60525 
