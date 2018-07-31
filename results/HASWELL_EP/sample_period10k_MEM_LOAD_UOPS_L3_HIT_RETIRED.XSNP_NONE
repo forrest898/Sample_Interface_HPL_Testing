@@ -1,0 +1,49 @@
+this is a test sentence to try to fix the output
+PERF_RECORD_SAMPLE [91], MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7fd7246e19c9
+	PERF_SAMPLE_CPU, cpu: 19  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 17306256 running: 17306256 
+			Value: 10003 id: 5484 
+PERF_RECORD_SAMPLE [91], MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7fd724717ef6
+	PERF_SAMPLE_CPU, cpu: 19  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 33031616 running: 33031616 
+			Value: 20002 id: 5484 
+PERF_RECORD_SAMPLE [91], MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7fd724749f6d
+	PERF_SAMPLE_CPU, cpu: 19  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 46665949 running: 46665949 
+			Value: 30002 id: 5484 
+PERF_RECORD_SAMPLE [91], MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7fd724718209
+	PERF_SAMPLE_CPU, cpu: 19  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 60318921 running: 60318921 
+			Value: 40002 id: 5484 
+PERF_RECORD_SAMPLE [91], MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7fd72471676d
+	PERF_SAMPLE_CPU, cpu: 19  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 75508936 running: 75508936 
+			Value: 50002 id: 5484 
+PERF_RECORD_SAMPLE [91], MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7fd7246e4518
+	PERF_SAMPLE_CPU, cpu: 19  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 90379039 running: 90379039 
+			Value: 60002 id: 5484 
+PERF_RECORD_SAMPLE [91], MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7fd724713c20
+	PERF_SAMPLE_CPU, cpu: 19  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 106098515 running: 106098515 
+			Value: 70002 id: 5484 
+PERF_RECORD_SAMPLE [91], MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 55aa21402d76
+	PERF_SAMPLE_CPU, cpu: 19  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 121105914 running: 121105914 
+			Value: 80002 id: 5484 
