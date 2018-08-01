@@ -1,0 +1,43 @@
+This is a test sentence to prevent locking with malloc
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f8c8519370f
+	PERF_SAMPLE_CPU, cpu: 19  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 25912740 running: 25912740 
+			Value: 100002 id: 9381 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 5578658cfef2
+	PERF_SAMPLE_CPU, cpu: 19  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 48958231 running: 48958231 
+			Value: 200003 id: 9381 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f8c851c2140
+	PERF_SAMPLE_CPU, cpu: 19  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 70807832 running: 70807832 
+			Value: 300003 id: 9381 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f8c851c078f
+	PERF_SAMPLE_CPU, cpu: 19  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 92632563 running: 92632563 
+			Value: 400004 id: 9381 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f8c85f85984
+	PERF_SAMPLE_CPU, cpu: 19  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 112271210 running: 112271210 
+			Value: 500002 id: 9381 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f8c85f80c40
+	PERF_SAMPLE_CPU, cpu: 19  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 129914057 running: 129914057 
+			Value: 600002 id: 9381 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f8c85f3fdd7
+	PERF_SAMPLE_CPU, cpu: 19  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 147824985 running: 147824985 
+			Value: 700002 id: 9381 

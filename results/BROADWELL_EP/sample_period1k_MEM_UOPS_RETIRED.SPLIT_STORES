@@ -1,0 +1,1681 @@
+This is a test sentence to prevent locking with malloc
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f75923e128c
+	PERF_SAMPLE_CPU, cpu: 15  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 2528028 running: 2528028 
+			Value: 1002 id: 9761 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f75923a9fc6
+	PERF_SAMPLE_CPU, cpu: 15  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 3646940 running: 3646940 
+			Value: 2000 id: 9761 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 55b1ac042e79
+	PERF_SAMPLE_CPU, cpu: 15  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 4175234 running: 4175234 
+			Value: 3001 id: 9761 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 55b1ac042983
+	PERF_SAMPLE_CPU, cpu: 15  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 4854382 running: 4854382 
+			Value: 4001 id: 9761 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f75915f9965
+	PERF_SAMPLE_CPU, cpu: 15  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 5480148 running: 5480148 
+			Value: 5000 id: 9761 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 55b1ac0412be
+	PERF_SAMPLE_CPU, cpu: 15  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 6067655 running: 6067655 
+			Value: 6001 id: 9761 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 55b1ac04126d
+	PERF_SAMPLE_CPU, cpu: 15  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 6770298 running: 6770298 
+			Value: 7000 id: 9761 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f75923abdd7
+	PERF_SAMPLE_CPU, cpu: 15  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 7825437 running: 7825437 
+			Value: 8000 id: 9761 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 55b1ac04132e
+	PERF_SAMPLE_CPU, cpu: 15  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 8590517 running: 8590517 
+			Value: 9001 id: 9761 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f75923a9fef
+	PERF_SAMPLE_CPU, cpu: 15  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 9374663 running: 9374663 
+			Value: 10000 id: 9761 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f759241487d
+	PERF_SAMPLE_CPU, cpu: 15  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 10109518 running: 10109518 
+			Value: 11000 id: 9761 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f75923e128c
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 11386886 running: 654010 
+			Value: 1001 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 55b1ac041356
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 12094638 running: 1361762 
+			Value: 2001 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f75923abdd7
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 12723134 running: 1990258 
+			Value: 3000 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 55b1ac03a954
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 13562085 running: 2829209 
+			Value: 4000 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f75923a9a23
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 14420407 running: 3687531 
+			Value: 5000 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f75923e12b4
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 15677933 running: 4945057 
+			Value: 6000 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 55b1ac04247d
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 16459776 running: 5726900 
+			Value: 7003 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 55b1ac04126d
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 17179234 running: 6446358 
+			Value: 8001 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f75923a9a23
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 17751535 running: 7018659 
+			Value: 9000 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 55b1ac041334
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 18436266 running: 7703390 
+			Value: 10003 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f75923abdd7
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 19156785 running: 8423909 
+			Value: 11000 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f75923e128c
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 20142061 running: 9409185 
+			Value: 12002 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 55b1ac01df48
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 20920572 running: 10187696 
+			Value: 13000 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 55b1ac01df88
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 21657651 running: 10924775 
+			Value: 14000 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f75923abdd7
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 22370202 running: 11637326 
+			Value: 15000 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f75915f9ded
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 23130295 running: 12397419 
+			Value: 16000 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f75923a9a23
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 23866834 running: 13133958 
+			Value: 17000 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f75923a9a23
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 24518817 running: 13785941 
+			Value: 18000 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f75923d78b3
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 25225219 running: 14492343 
+			Value: 19004 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 55b1ac047ce0
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 25850047 running: 15117171 
+			Value: 20000 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f75923e12b0
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 26659289 running: 15926413 
+			Value: 21000 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 55b1ac01df8b
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 27609276 running: 16876400 
+			Value: 22000 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 55b1ac01df8b
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 28456323 running: 17723447 
+			Value: 23000 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 55b1ac04125b
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 29259343 running: 18526467 
+			Value: 24003 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 55b1ac02b8e6
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 29687944 running: 18955068 
+			Value: 25002 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 55b1ac04132e
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 30172192 running: 19439316 
+			Value: 26001 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 55b1ac04121f
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 30690639 running: 19957763 
+			Value: 27007 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 55b1ac0102f8
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 31070412 running: 20337536 
+			Value: 28000 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 55b1ac043161
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 31551859 running: 20818983 
+			Value: 29002 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 55b1ac02b8cb
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 32060594 running: 21327718 
+			Value: 30000 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f759162c707
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 32431801 running: 21698925 
+			Value: 31000 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 55b1ac0412be
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 32929003 running: 22196127 
+			Value: 32000 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f75923abdd7
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 33437327 running: 22704451 
+			Value: 33001 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f75923abdd7
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 33776823 running: 23043947 
+			Value: 34000 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 55b1ac04247d
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 34526004 running: 23793128 
+			Value: 35001 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 55b1ac03b18f
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 35140988 running: 24408112 
+			Value: 36000 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 55b1ac03aefd
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 35706820 running: 24973944 
+			Value: 37000 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 55b1ac0411c9
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 36269474 running: 25536598 
+			Value: 38006 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f75923d816c
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 36793743 running: 26060867 
+			Value: 39001 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f75923dffb8
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 37293297 running: 26560421 
+			Value: 40000 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f75923abdd7
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 37832234 running: 27099358 
+			Value: 41000 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 55b1ac02b7ad
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 38392328 running: 27659452 
+			Value: 42003 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 55b1ac042a30
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 39088861 running: 28355985 
+			Value: 43003 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 55b1ac043285
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 39525384 running: 28792508 
+			Value: 44001 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f75923abdd7
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 40019576 running: 29286700 
+			Value: 45000 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f75922a1a70
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 40521092 running: 29788216 
+			Value: 46000 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f7592397b65
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 40988015 running: 30255139 
+			Value: 47000 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 55b1ac01df8b
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 41579373 running: 30846497 
+			Value: 48000 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f75923abdd7
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 42428736 running: 31695860 
+			Value: 49001 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 55b1ac01df8b
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 43296525 running: 32563649 
+			Value: 50000 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 55b1ac01df8b
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 44122386 running: 33389510 
+			Value: 51000 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 55b1ac041ba2
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 44588584 running: 33855708 
+			Value: 52004 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f75923e12b4
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 45006945 running: 34274069 
+			Value: 53000 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 55b1ac0433c7
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 45445294 running: 34712418 
+			Value: 54001 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f75923e12b4
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 45844654 running: 35111778 
+			Value: 55000 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 55b1ac01df7b
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 46319063 running: 35586187 
+			Value: 56001 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f75923a9a23
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 46712044 running: 35979168 
+			Value: 57000 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 55b1ac041c1b
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 47180073 running: 36447197 
+			Value: 58003 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f75923abdd7
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 47583474 running: 36850598 
+			Value: 59001 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 55b1ac00daf4
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 48015114 running: 37282238 
+			Value: 60000 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f75923abdd7
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 48405136 running: 37672260 
+			Value: 61001 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 55b1ac01df8b
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 48879660 running: 38146784 
+			Value: 62000 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f75923e12b4
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 49267551 running: 38534675 
+			Value: 63000 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f75923abdd7
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 50122061 running: 39389185 
+			Value: 64000 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 55b1ac02b794
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 50718843 running: 39985967 
+			Value: 65004 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 55b1ac043038
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 51309225 running: 40576349 
+			Value: 66005 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f75923abdd7
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 51790493 running: 41057617 
+			Value: 67000 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f75923e12ae
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 52355951 running: 41623075 
+			Value: 68001 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 55b1ac04479f
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 52929830 running: 42196954 
+			Value: 69000 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 55b1ac041356
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 53502770 running: 42769894 
+			Value: 70001 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f7592414905
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 53929761 running: 43196885 
+			Value: 71001 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 55b1ac00d48d
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 54660905 running: 43928029 
+			Value: 72000 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 55b1ac042c9b
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 55192786 running: 44459910 
+			Value: 73000 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f75915f9965
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 55636937 running: 44904061 
+			Value: 74000 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f75923abdd7
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 56103973 running: 45371097 
+			Value: 75001 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f759162cbb6
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 56599580 running: 45866704 
+			Value: 76000 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f75923abdd7
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 57294077 running: 46561201 
+			Value: 77000 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 55b1ac01df7b
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 58001030 running: 47268154 
+			Value: 78000 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f75916de084
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 58764546 running: 48031670 
+			Value: 79003 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 55b1ac01df7b
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 59435505 running: 48702629 
+			Value: 80001 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f7592414893
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 59971314 running: 49238438 
+			Value: 81000 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f75923e12a1
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 60662851 running: 49929975 
+			Value: 82000 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 55b1abffdb20
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 61151942 running: 50419066 
+			Value: 83000 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f75923aa00f
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 61783752 running: 51050876 
+			Value: 84000 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 55b1ac01bd93
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 62184928 running: 51452052 
+			Value: 85000 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f7592414893
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 62625411 running: 51892535 
+			Value: 86000 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 55b1ac0083c5
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 63075940 running: 52343064 
+			Value: 87003 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 55b1ac0423f0
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 63501742 running: 52768866 
+			Value: 88002 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f75923e12b0
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 64258505 running: 53525629 
+			Value: 89000 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f75923abdd7
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 65066827 running: 54333951 
+			Value: 90002 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f75923a9a23
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 65726014 running: 54993138 
+			Value: 91000 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 55b1ac042a3d
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 66394918 running: 55662042 
+			Value: 92000 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 55b1ac042c75
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 67260376 running: 56527500 
+			Value: 93000 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f75923abdd7
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 67913492 running: 57180616 
+			Value: 94001 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f75923e14c1
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 68647294 running: 57914418 
+			Value: 95000 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f7591630517
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 69522673 running: 58789797 
+			Value: 96001 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 55b1ac008493
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 70322726 running: 59589850 
+			Value: 97003 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f75923abdd7
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 70798167 running: 60065291 
+			Value: 98000 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f7591629b96
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 71289769 running: 60556893 
+			Value: 99000 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 55b1ac04314b
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 71763856 running: 61030980 
+			Value: 100001 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f75915f9ded
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 72282564 running: 61549688 
+			Value: 101000 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f759162c718
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 72724008 running: 61991132 
+			Value: 102001 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 55b1ac042a7a
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 73269760 running: 62536884 
+			Value: 103001 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f759241489a
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 73693731 running: 62960855 
+			Value: 104000 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f759162cbb6
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 74437183 running: 63704307 
+			Value: 105001 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f75923abdd7
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 75272300 running: 64539424 
+			Value: 106001 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f759162cbb6
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 75981782 running: 65248906 
+			Value: 107000 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 55b1ac0424c9
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 76714962 running: 65982086 
+			Value: 108001 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f7591630528
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 77331525 running: 66598649 
+			Value: 109001 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f75923aa00f
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 78333198 running: 67600322 
+			Value: 110000 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f7591630510
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 79196092 running: 68463216 
+			Value: 111000 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f75923aa00f
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 80162485 running: 69429609 
+			Value: 112000 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f75923abdd7
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 80852699 running: 70119823 
+			Value: 113001 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 55b1ac04247d
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 81313632 running: 70580756 
+			Value: 114001 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 55b1ac04303d
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 81748086 running: 71015210 
+			Value: 115001 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 55b1ac04314b
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 82179411 running: 71446535 
+			Value: 116001 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 55b1ac0433d2
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 82610059 running: 71877183 
+			Value: 117001 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f75923d78b3
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 83041682 running: 72308806 
+			Value: 118004 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 55b1ac0424aa
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 83470689 running: 72737813 
+			Value: 119003 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f7592336e5d
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 83893054 running: 73160178 
+			Value: 120001 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 55b1ac0412be
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 84305570 running: 73572694 
+			Value: 121001 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f75923aa00f
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 84615647 running: 73882771 
+			Value: 122000 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 55b1ac042477
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 85478515 running: 74745639 
+			Value: 123000 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 55b1ac0411bf
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 86089727 running: 75356851 
+			Value: 124001 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 55b1ac0411bf
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 86685449 running: 75952573 
+			Value: 125001 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 55b1ac04303d
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 87268900 running: 76536024 
+			Value: 126001 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f75923abdd7
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 87913990 running: 77181114 
+			Value: 127002 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 55b1ac042489
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 88558395 running: 77825519 
+			Value: 128001 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 55b1ac0084a7
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 89188450 running: 78455574 
+			Value: 129000 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f7592414905
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 89776965 running: 79044089 
+			Value: 130000 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f75923abdd7
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 90902294 running: 80169418 
+			Value: 131001 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f75916de084
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 91859616 running: 81126740 
+			Value: 132002 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 55b1ac0424a4
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 92736933 running: 82004057 
+			Value: 133002 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 55b1ac042700
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 93203846 running: 82470970 
+			Value: 134003 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 55b1ac041b40
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 93652888 running: 82920012 
+			Value: 135003 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f75923a9a23
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 94061608 running: 83328732 
+			Value: 136000 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f759162ff10
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 94433073 running: 83700197 
+			Value: 137001 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 55b1ac04315c
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 94834602 running: 84101726 
+			Value: 138001 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f75923abdd7
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 95272834 running: 84539958 
+			Value: 139001 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f759163051f
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 95710198 running: 84977322 
+			Value: 140000 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f75923e12b0
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 96206918 running: 85474042 
+			Value: 141000 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 55b1ac00d177
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 96839534 running: 86106658 
+			Value: 142000 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 55b1ac01bdaa
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 97520406 running: 86787530 
+			Value: 143000 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 55b1ac041822
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 98107081 running: 87374205 
+			Value: 144001 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 55b1ac041c9a
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 98607622 running: 87874746 
+			Value: 145003 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f75923a9a02
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 99163476 running: 88430600 
+			Value: 146000 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 55b1ac039ab2
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 99677367 running: 88944491 
+			Value: 147001 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 55b1ac03b4bd
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 100291773 running: 89558897 
+			Value: 148000 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 55b1ac0423f5
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 101197780 running: 90464904 
+			Value: 149001 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 55b1ac042c29
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 101753291 running: 91020415 
+			Value: 150000 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f75915f9965
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 102340838 running: 91607962 
+			Value: 151000 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f75923aa004
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 103237598 running: 92504722 
+			Value: 152000 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 55b1ac01bd8d
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 104163980 running: 93431104 
+			Value: 153002 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 55b1ac0247ab
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 104979434 running: 94246558 
+			Value: 154000 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 55b1ac01df43
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 105447923 running: 94715047 
+			Value: 155001 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f75923e12b4
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 106002131 running: 95269255 
+			Value: 156000 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 55b1ac02479e
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 106439947 running: 95707071 
+			Value: 157001 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f75923abdd7
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 106888641 running: 96155765 
+			Value: 158000 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f75923e12b4
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 107429846 running: 96696970 
+			Value: 159000 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 55b1ac01df8b
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 107868615 running: 97135739 
+			Value: 160000 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f75923e12b4
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 108425780 running: 97692904 
+			Value: 161000 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f75923d78b3
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 108994570 running: 98261694 
+			Value: 162004 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 55b1ac01df7b
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 109635661 running: 98902785 
+			Value: 163001 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f75915f995d
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 110307124 running: 99574248 
+			Value: 164000 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f7592336e59
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 110990365 running: 100257489 
+			Value: 165000 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f75923abdd7
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 111505029 running: 100772153 
+			Value: 166000 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f75923e12b4
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 111922388 running: 101189512 
+			Value: 167001 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f7592336e5d
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 112262894 running: 101530018 
+			Value: 168000 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 55b1ac03e770
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 112669816 running: 101936940 
+			Value: 169003 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f75923e12b4
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 112996801 running: 102263925 
+			Value: 170001 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 55b1ac01df7b
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 113398100 running: 102665224 
+			Value: 171001 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 55b1ac047acc
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 113720893 running: 102988017 
+			Value: 172000 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f75923e12b4
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 114138334 running: 103405458 
+			Value: 173001 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 55b1ac01df7b
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 114709801 running: 103976925 
+			Value: 174001 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 55b1ac01df8b
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 115259627 running: 104526751 
+			Value: 175000 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f75923e12b4
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 115809399 running: 105076523 
+			Value: 176001 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f75923abdd7
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 116405410 running: 105672534 
+			Value: 177002 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 55b1ac0247ab
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 116887846 running: 106154970 
+			Value: 178000 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f75923abdd7
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 117446445 running: 106713569 
+			Value: 179001 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 55b1ac02479e
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 118240920 running: 107508044 
+			Value: 180000 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f75923e12b4
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 118726030 running: 107993154 
+			Value: 181000 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f75923abdd7
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 119291677 running: 108558801 
+			Value: 182000 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f75923abdd7
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 119746117 running: 109013241 
+			Value: 183000 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f75923e12b4
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 120553122 running: 109820246 
+			Value: 184000 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f75923ecdde
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 121250584 running: 110517708 
+			Value: 185000 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f75923e12b4
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 121926744 running: 111193868 
+			Value: 186000 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f75923d78b3
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 122671721 running: 111938845 
+			Value: 187002 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f75923e12b4
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 123415580 running: 112682704 
+			Value: 188001 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 55b1ac008482
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 123840243 running: 113107367 
+			Value: 189000 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 55b1ac01df88
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 124216881 running: 113484005 
+			Value: 190001 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 55b1ac01df88
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 124550215 running: 113817339 
+			Value: 191000 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 55b1ac018952
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 124955684 running: 114222808 
+			Value: 192002 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 55b1ac01df7b
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 125275328 running: 114542452 
+			Value: 193000 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 55b1ac01df88
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 125605062 running: 114872186 
+			Value: 194001 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f75923abdd7
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 126003793 running: 115270917 
+			Value: 195000 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 55b1ac01df8b
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 126443124 running: 115710248 
+			Value: 196000 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 55b1ac01df88
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 127044664 running: 116311788 
+			Value: 197001 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f75923e12b4
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 127703188 running: 116970312 
+			Value: 198001 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f75923e12b4
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 128304260 running: 117571384 
+			Value: 199001 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 55b1ac03ffcd
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 128848403 running: 118115527 
+			Value: 200010 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f75923abdd7
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 129371668 running: 118638792 
+			Value: 201000 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 55b1ac02b88e
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 129806929 running: 119074053 
+			Value: 202004 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f75923abdd7
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 130087305 running: 119354429 
+			Value: 203000 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f75923e12b4
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 130378665 running: 119645789 
+			Value: 204000 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 55b1ac03e770
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 130763714 running: 120030838 
+			Value: 205005 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f75923d7880
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 131037329 running: 120304453 
+			Value: 206004 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 55b1ac0447d5
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 131440187 running: 120707311 
+			Value: 207000 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 55b1ac02b812
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 131719583 running: 120986707 
+			Value: 208004 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 55b1ac04340b
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 132390068 running: 121657192 
+			Value: 209005 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f75923abdd7
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 132806283 running: 122073407 
+			Value: 210000 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 55b1ac041249
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 133092357 running: 122359481 
+			Value: 211000 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 55b1ac043402
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 133504027 running: 122771151 
+			Value: 212001 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f75923abdd7
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 133804314 running: 123071438 
+			Value: 213002 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 55b1ac0433e7
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 134325815 running: 123592939 
+			Value: 214009 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f7592336e5d
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 134739345 running: 124006469 
+			Value: 215001 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 55b1ac02b7ad
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 135238175 running: 124505299 
+			Value: 216005 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 55b1ac04479f
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 135665766 running: 124932890 
+			Value: 217002 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 55b1ac043077
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 136178839 running: 125445963 
+			Value: 218000 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f75923e12b4
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 136599316 running: 125866440 
+			Value: 219001 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f75923abdd7
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 137094548 running: 126361672 
+			Value: 220000 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 55b1ac01df7b
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 137466340 running: 126733464 
+			Value: 221002 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 55b1ac047acc
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 137822354 running: 127089478 
+			Value: 222000 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f75923abd85
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 138182527 running: 127449651 
+			Value: 223000 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f75923e12b4
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 138543302 running: 127810426 
+			Value: 224001 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f75923abdd7
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 138978032 running: 128245156 
+			Value: 225000 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f75923e12b4
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 139328386 running: 128595510 
+			Value: 226001 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f75923abdd7
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 139687022 running: 128954146 
+			Value: 227000 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 55b1ac0411b5
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 140036047 running: 129303171 
+			Value: 228006 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f75923e128c
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 140585208 running: 129852332 
+			Value: 229002 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 55b1ac01df8b
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 141238167 running: 130505291 
+			Value: 230000 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f75923e12b4
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 142151405 running: 131418529 
+			Value: 231001 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 55b1ac01df8b
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 142772703 running: 132039827 
+			Value: 232000 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f75923e12b4
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 143311607 running: 132578731 
+			Value: 233001 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 55b1ac03e763
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 143942318 running: 133209442 
+			Value: 234011 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f75923abdd7
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 144240725 running: 133507849 
+			Value: 235000 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 55b1ac02b81e
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 144526827 running: 133793951 
+			Value: 236006 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 55b1ac01df43
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 144942035 running: 134209159 
+			Value: 237001 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f75923abdd7
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 145207409 running: 134474533 
+			Value: 238000 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f7592336e5d
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 145478530 running: 134745654 
+			Value: 239002 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 55b1ac04340b
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 145758406 running: 135025530 
+			Value: 240005 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 55b1ac0433f8
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 146152908 running: 135420032 
+			Value: 241008 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 55b1ac043188
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 146783807 running: 136050931 
+			Value: 242000 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f75923e12b4
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 147077488 running: 136344612 
+			Value: 243000 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f75923e12b4
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 147368331 running: 136635455 
+			Value: 244000 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f75923abdd7
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 147774120 running: 137041244 
+			Value: 245001 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 55b1ac03e7d0
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 148059137 running: 137326261 
+			Value: 246003 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f75923abdd7
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 148332346 running: 137599470 
+			Value: 247001 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f75923abdd7
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 148769872 running: 138036996 
+			Value: 248000 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f75923abdd7
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 149284267 running: 138551391 
+			Value: 249001 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 55b1ac02b7bf
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 149679589 running: 138946713 
+			Value: 250004 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f75923abdd7
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 150085807 running: 139352931 
+			Value: 251000 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f75923e12b4
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 150484362 running: 139751486 
+			Value: 252001 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 55b1ac03f951
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 150983761 running: 140250885 
+			Value: 253004 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f75923d78b3
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 151391265 running: 140658389 
+			Value: 254004 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 55b1ac041181
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 151796247 running: 141063371 
+			Value: 255006 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f75923abdd7
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 152182910 running: 141450034 
+			Value: 256000 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f75923e12b4
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 152540224 running: 141807348 
+			Value: 257001 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f75923e12b4
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 152888407 running: 142155531 
+			Value: 258001 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f7592336e5d
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 153236830 running: 142503954 
+			Value: 259003 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f75923abdd7
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 153585159 running: 142852283 
+			Value: 260002 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f75923e128c
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 153931481 running: 143198605 
+			Value: 261001 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 55b1ac01df88
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 154277575 running: 143544699 
+			Value: 262000 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 55b1ac01df7b
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 154624077 running: 143891201 
+			Value: 263000 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 55b1ac02479e
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 154978477 running: 144245601 
+			Value: 264001 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f75923e128c
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 155524746 running: 144791870 
+			Value: 265002 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f75923e128c
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 156118982 running: 145386106 
+			Value: 266002 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 55b1ac01df88
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 156640242 running: 145907366 
+			Value: 267000 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f75923abdd7
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 157159139 running: 146426263 
+			Value: 268002 id: 9777 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 55b1ac01df8b
+	PERF_SAMPLE_CPU, cpu: 31  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 157674068 running: 146941192 
+			Value: 269000 id: 9777 

@@ -1,0 +1,31 @@
+This is a test sentence to prevent locking with malloc
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7fe8fc2e49f0
+	PERF_SAMPLE_CPU, cpu: 29  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 53797893 running: 53797893 
+			Value: 100001 id: 9487 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7fe8fc2b7057
+	PERF_SAMPLE_CPU, cpu: 29  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 88696282 running: 88696282 
+			Value: 200000 id: 9487 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7fe8fc2ff3f2
+	PERF_SAMPLE_CPU, cpu: 29  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 118770195 running: 118770195 
+			Value: 300001 id: 9487 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7fe8fc2b6e5d
+	PERF_SAMPLE_CPU, cpu: 29  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 135249048 running: 135249048 
+			Value: 400001 id: 9487 
+, MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7fe8fb5eb070
+	PERF_SAMPLE_CPU, cpu: 29  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 153457591 running: 153457591 
+			Value: 500000 id: 9487 
