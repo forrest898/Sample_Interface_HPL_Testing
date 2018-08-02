@@ -1,0 +1,115 @@
+PERF_RECORD_SAMPLE [87ff], MISC=1 (PERF_RECORD_MISC_KERNEL), Size=200
+	PERF_SAMPLE_IP, IP: ffffffff81850bd0
+	PERF_SAMPLE_TID, pid: 29961  tid 29961
+	PERF_SAMPLE_TIME, time: 17221760821280
+	PERF_SAMPLE_ADDR, addr: 0
+	PERF_SAMPLE_ID, sample_id: 6439
+	PERF_SAMPLE_STREAM_ID, sample_stream_id: 6439
+	PERF_SAMPLE_CPU, cpu: 0  res 0
+	PERF_SAMPLE_PERIOD, period: 10
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 8911 running: 8911 
+			Value: 11 id: 6439 
+	PERF_SAMPLE_CALLCHAIN, callchain length: 8
+		 ip[0]: ffffffffffffff80
+		 ip[1]: ffffffff81850bd0
+		 ip[2]: fffffffffffffe00
+		 ip[3]: 7fdc66bb3f47
+		 ip[4]: 7fdc67517ac6
+		 ip[5]: 4015d5
+		 ip[6]: 7fdc66ad7830
+		 ip[7]: 376e258d4c544155
+	PERF_SAMPLE_RAW, Raw length: 4
+		0 0 0 0 
+	PERF_SAMPLE_DATA_SRC, Raw: 5080021
+		Op Not available Level Not available Snoop Not available Locks Not available TLB Not available 
+PERF_RECORD_SAMPLE [87ff], MISC=1 (PERF_RECORD_MISC_KERNEL), Size=192
+	PERF_SAMPLE_IP, IP: ffffffff81850bd0
+	PERF_SAMPLE_TID, pid: 29961  tid 29961
+	PERF_SAMPLE_TIME, time: 17221760872951
+	PERF_SAMPLE_ADDR, addr: 0
+	PERF_SAMPLE_ID, sample_id: 6439
+	PERF_SAMPLE_STREAM_ID, sample_stream_id: 6439
+	PERF_SAMPLE_CPU, cpu: 0  res 0
+	PERF_SAMPLE_PERIOD, period: 10
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 22803 running: 22803 
+			Value: 20 id: 6439 
+	PERF_SAMPLE_CALLCHAIN, callchain length: 7
+		 ip[0]: ffffffffffffff80
+		 ip[1]: ffffffff81850bd0
+		 ip[2]: fffffffffffffe00
+		 ip[3]: 7fdc66bb3f47
+		 ip[4]: 4015d5
+		 ip[5]: 7fdc66ad7830
+		 ip[6]: 376e258d4c544155
+	PERF_SAMPLE_RAW, Raw length: 4
+		0 0 0 0 
+	PERF_SAMPLE_DATA_SRC, Raw: 5080021
+		Op Not available Level Not available Snoop Not available Locks Not available TLB Not available 
+PERF_RECORD_SAMPLE [87ff], MISC=2 (PERF_RECORD_MISC_USER), Size=176
+	PERF_SAMPLE_IP, IP: 40205f
+	PERF_SAMPLE_TID, pid: 29961  tid 29961
+	PERF_SAMPLE_TIME, time: 17221760890748
+	PERF_SAMPLE_ADDR, addr: 0
+	PERF_SAMPLE_ID, sample_id: 6439
+	PERF_SAMPLE_STREAM_ID, sample_stream_id: 6439
+	PERF_SAMPLE_CPU, cpu: 0  res 0
+	PERF_SAMPLE_PERIOD, period: 10
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 29857 running: 29857 
+			Value: 31 id: 6439 
+	PERF_SAMPLE_CALLCHAIN, callchain length: 5
+		 ip[0]: fffffffffffffe00
+		 ip[1]: 40205f
+		 ip[2]: 4015d5
+		 ip[3]: 7fdc66ad7830
+		 ip[4]: 376e258d4c544155
+	PERF_SAMPLE_RAW, Raw length: 4
+		0 0 0 0 
+	PERF_SAMPLE_DATA_SRC, Raw: 5080021
+		Op Not available Level Not available Snoop Not available Locks Not available TLB Not available 
+PERF_RECORD_SAMPLE [87ff], MISC=2 (PERF_RECORD_MISC_USER), Size=152
+	PERF_SAMPLE_IP, IP: 7fdc66af2aec
+	PERF_SAMPLE_TID, pid: 29961  tid 29961
+	PERF_SAMPLE_TIME, time: 17223660179179
+	PERF_SAMPLE_ADDR, addr: 0
+	PERF_SAMPLE_ID, sample_id: 6443
+	PERF_SAMPLE_STREAM_ID, sample_stream_id: 6443
+	PERF_SAMPLE_CPU, cpu: 4  res 0
+	PERF_SAMPLE_PERIOD, period: 10
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 1899267562 running: 2779790 
+			Value: 10 id: 6443 
+	PERF_SAMPLE_CALLCHAIN, callchain length: 2
+		 ip[0]: fffffffffffffe00
+		 ip[1]: 7fdc66af2aec
+	PERF_SAMPLE_RAW, Raw length: 4
+		0 0 0 0 
+	PERF_SAMPLE_DATA_SRC, Raw: 5080021
+		Op Not available Level Not available Snoop Not available Locks Not available TLB Not available 
+PERF_RECORD_SAMPLE [87ff], MISC=1 (PERF_RECORD_MISC_KERNEL), Size=200
+	PERF_SAMPLE_IP, IP: ffffffff81850bd0
+	PERF_SAMPLE_TID, pid: 29961  tid 29961
+	PERF_SAMPLE_TIME, time: 17223660235410
+	PERF_SAMPLE_ADDR, addr: 0
+	PERF_SAMPLE_ID, sample_id: 6443
+	PERF_SAMPLE_STREAM_ID, sample_stream_id: 6443
+	PERF_SAMPLE_CPU, cpu: 4  res 0
+	PERF_SAMPLE_PERIOD, period: 10
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 1899285010 running: 2797238 
+			Value: 20 id: 6443 
+	PERF_SAMPLE_CALLCHAIN, callchain length: 8
+		 ip[0]: ffffffffffffff80
+		 ip[1]: ffffffff81850bd0
+		 ip[2]: fffffffffffffe00
+		 ip[3]: 7fdc66bb3f47
+		 ip[4]: 4020af
+		 ip[5]: 401618
+		 ip[6]: 7fdc66ad7830
+		 ip[7]: 376e258d4c544155
+	PERF_SAMPLE_RAW, Raw length: 4
+		0 0 0 0 
+	PERF_SAMPLE_DATA_SRC, Raw: 5080021
+		Op Not available Level Not available Snoop Not available Locks Not available TLB Not available 

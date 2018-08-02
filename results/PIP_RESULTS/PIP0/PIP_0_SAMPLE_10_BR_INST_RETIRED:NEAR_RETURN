@@ -1,0 +1,112 @@
+PERF_RECORD_SAMPLE [87ff], MISC=2 (PERF_RECORD_MISC_USER), Size=176
+	PERF_SAMPLE_IP, IP: 401fbf
+	PERF_SAMPLE_TID, pid: 29965  tid 29965
+	PERF_SAMPLE_TIME, time: 17223666146566
+	PERF_SAMPLE_ADDR, addr: 0
+	PERF_SAMPLE_ID, sample_id: 6452
+	PERF_SAMPLE_STREAM_ID, sample_stream_id: 6452
+	PERF_SAMPLE_CPU, cpu: 3  res 0
+	PERF_SAMPLE_PERIOD, period: 10
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 8067 running: 8067 
+			Value: 11 id: 6452 
+	PERF_SAMPLE_CALLCHAIN, callchain length: 5
+		 ip[0]: fffffffffffffe00
+		 ip[1]: 401fbf
+		 ip[2]: 4015d5
+		 ip[3]: 7fcb2b416830
+		 ip[4]: 376e258d4c544155
+	PERF_SAMPLE_RAW, Raw length: 4
+		0 0 0 0 
+	PERF_SAMPLE_DATA_SRC, Raw: 5080021
+		Op Not available Level Not available Snoop Not available Locks Not available TLB Not available 
+PERF_RECORD_SAMPLE [87ff], MISC=2 (PERF_RECORD_MISC_USER), Size=176
+	PERF_SAMPLE_IP, IP: 402064
+	PERF_SAMPLE_TID, pid: 29965  tid 29965
+	PERF_SAMPLE_TIME, time: 17223666206820
+	PERF_SAMPLE_ADDR, addr: 0
+	PERF_SAMPLE_ID, sample_id: 6452
+	PERF_SAMPLE_STREAM_ID, sample_stream_id: 6452
+	PERF_SAMPLE_CPU, cpu: 3  res 0
+	PERF_SAMPLE_PERIOD, period: 10
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 23084 running: 23084 
+			Value: 21 id: 6452 
+	PERF_SAMPLE_CALLCHAIN, callchain length: 5
+		 ip[0]: fffffffffffffe00
+		 ip[1]: 402064
+		 ip[2]: 4015d5
+		 ip[3]: 7fcb2b416830
+		 ip[4]: 376e258d4c544155
+	PERF_SAMPLE_RAW, Raw length: 4
+		0 0 0 0 
+	PERF_SAMPLE_DATA_SRC, Raw: 5080021
+		Op Not available Level Not available Snoop Not available Locks Not available TLB Not available 
+PERF_RECORD_SAMPLE [87ff], MISC=2 (PERF_RECORD_MISC_USER), Size=192
+	PERF_SAMPLE_IP, IP: 7fcb2b4fb776
+	PERF_SAMPLE_TID, pid: 29965  tid 29965
+	PERF_SAMPLE_TIME, time: 17225570932195
+	PERF_SAMPLE_ADDR, addr: 0
+	PERF_SAMPLE_ID, sample_id: 6452
+	PERF_SAMPLE_STREAM_ID, sample_stream_id: 6452
+	PERF_SAMPLE_CPU, cpu: 3  res 0
+	PERF_SAMPLE_PERIOD, period: 10
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 1904258829 running: 1904258829 
+			Value: 30 id: 6452 
+	PERF_SAMPLE_CALLCHAIN, callchain length: 7
+		 ip[0]: fffffffffffffe00
+		 ip[1]: 7fcb2b4fb776
+		 ip[2]: 7fcb2b4fb95e
+		 ip[3]: 4020ea
+		 ip[4]: 401618
+		 ip[5]: 7fcb2b416830
+		 ip[6]: 376e258d4c544155
+	PERF_SAMPLE_RAW, Raw length: 4
+		0 0 0 0 
+	PERF_SAMPLE_DATA_SRC, Raw: 5080021
+		Op Not available Level Not available Snoop Not available Locks Not available TLB Not available 
+PERF_RECORD_SAMPLE [87ff], MISC=2 (PERF_RECORD_MISC_USER), Size=176
+	PERF_SAMPLE_IP, IP: 7fcb2b4fb920
+	PERF_SAMPLE_TID, pid: 29965  tid 29965
+	PERF_SAMPLE_TIME, time: 17225570972492
+	PERF_SAMPLE_ADDR, addr: 0
+	PERF_SAMPLE_ID, sample_id: 6452
+	PERF_SAMPLE_STREAM_ID, sample_stream_id: 6452
+	PERF_SAMPLE_CPU, cpu: 3  res 0
+	PERF_SAMPLE_PERIOD, period: 10
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 1904275012 running: 1904275012 
+			Value: 40 id: 6452 
+	PERF_SAMPLE_CALLCHAIN, callchain length: 5
+		 ip[0]: fffffffffffffe00
+		 ip[1]: 7fcb2b4fb920
+		 ip[2]: 401618
+		 ip[3]: 7fcb2b416830
+		 ip[4]: 376e258d4c544155
+	PERF_SAMPLE_RAW, Raw length: 4
+		0 0 0 0 
+	PERF_SAMPLE_DATA_SRC, Raw: 5080021
+		Op Not available Level Not available Snoop Not available Locks Not available TLB Not available 
+PERF_RECORD_SAMPLE [87ff], MISC=2 (PERF_RECORD_MISC_USER), Size=176
+	PERF_SAMPLE_IP, IP: 402090
+	PERF_SAMPLE_TID, pid: 29965  tid 29965
+	PERF_SAMPLE_TIME, time: 17225570989592
+	PERF_SAMPLE_ADDR, addr: 0
+	PERF_SAMPLE_ID, sample_id: 6452
+	PERF_SAMPLE_STREAM_ID, sample_stream_id: 6452
+	PERF_SAMPLE_CPU, cpu: 3  res 0
+	PERF_SAMPLE_PERIOD, period: 10
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 1904282388 running: 1904282388 
+			Value: 52 id: 6452 
+	PERF_SAMPLE_CALLCHAIN, callchain length: 5
+		 ip[0]: fffffffffffffe00
+		 ip[1]: 402090
+		 ip[2]: 401618
+		 ip[3]: 7fcb2b416830
+		 ip[4]: 376e258d4c544155
+	PERF_SAMPLE_RAW, Raw length: 4
+		0 0 0 0 
+	PERF_SAMPLE_DATA_SRC, Raw: 5080021
+		Op Not available Level Not available Snoop Not available Locks Not available TLB Not available 

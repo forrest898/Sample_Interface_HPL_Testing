@@ -1,0 +1,88 @@
+PERF_RECORD_SAMPLE [87ff], MISC=16386 (PERF_RECORD_MISC_USER,PERF_RECORD_MISC_EXACT_IP ), Size=176
+	PERF_SAMPLE_IP, IP: 401fd0
+	PERF_SAMPLE_TID, pid: 27863  tid 27863
+	PERF_SAMPLE_TIME, time: 16069787025668
+	PERF_SAMPLE_ADDR, addr: 0
+	PERF_SAMPLE_ID, sample_id: 6145
+	PERF_SAMPLE_STREAM_ID, sample_stream_id: 6145
+	PERF_SAMPLE_CPU, cpu: 0  res 0
+	PERF_SAMPLE_PERIOD, period: 10
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 9270 running: 9270 
+			Value: 0 id: 6145 
+	PERF_SAMPLE_CALLCHAIN, callchain length: 5
+		 ip[0]: fffffffffffffe00
+		 ip[1]: 401fd0
+		 ip[2]: 4015d5
+		 ip[3]: 7f6895cb1830
+		 ip[4]: 376e258d4c544155
+	PERF_SAMPLE_RAW, Raw length: 4
+		0 0 0 0 
+	PERF_SAMPLE_DATA_SRC, Raw: 5080021
+		Op Not available Level Not available Snoop Not available Locks Not available TLB Not available 
+PERF_RECORD_SAMPLE [87ff], MISC=16386 (PERF_RECORD_MISC_USER,PERF_RECORD_MISC_EXACT_IP ), Size=176
+	PERF_SAMPLE_IP, IP: 402051
+	PERF_SAMPLE_TID, pid: 27863  tid 27863
+	PERF_SAMPLE_TIME, time: 16069787078687
+	PERF_SAMPLE_ADDR, addr: 0
+	PERF_SAMPLE_ID, sample_id: 6145
+	PERF_SAMPLE_STREAM_ID, sample_stream_id: 6145
+	PERF_SAMPLE_CPU, cpu: 0  res 0
+	PERF_SAMPLE_PERIOD, period: 10
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 25026 running: 25026 
+			Value: 281474976710656 id: 6145 
+	PERF_SAMPLE_CALLCHAIN, callchain length: 5
+		 ip[0]: fffffffffffffe00
+		 ip[1]: 402051
+		 ip[2]: 4015d5
+		 ip[3]: 7f6895cb1830
+		 ip[4]: 376e258d4c544155
+	PERF_SAMPLE_RAW, Raw length: 4
+		0 0 0 0 
+	PERF_SAMPLE_DATA_SRC, Raw: 5080021
+		Op Not available Level Not available Snoop Not available Locks Not available TLB Not available 
+PERF_RECORD_SAMPLE [87ff], MISC=16386 (PERF_RECORD_MISC_USER,PERF_RECORD_MISC_EXACT_IP ), Size=168
+	PERF_SAMPLE_IP, IP: 4015f8
+	PERF_SAMPLE_TID, pid: 27863  tid 27863
+	PERF_SAMPLE_TIME, time: 16070465394633
+	PERF_SAMPLE_ADDR, addr: 0
+	PERF_SAMPLE_ID, sample_id: 6145
+	PERF_SAMPLE_STREAM_ID, sample_stream_id: 6145
+	PERF_SAMPLE_CPU, cpu: 0  res 0
+	PERF_SAMPLE_PERIOD, period: 10
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 678324012 running: 678324012 
+			Value: 281474976710666 id: 6145 
+	PERF_SAMPLE_CALLCHAIN, callchain length: 4
+		 ip[0]: fffffffffffffe00
+		 ip[1]: 4015f8
+		 ip[2]: 7f6895cb1830
+		 ip[3]: 376e258d4c544155
+	PERF_SAMPLE_RAW, Raw length: 4
+		0 0 0 0 
+	PERF_SAMPLE_DATA_SRC, Raw: 5080021
+		Op Not available Level Not available Snoop Not available Locks Not available TLB Not available 
+PERF_RECORD_SAMPLE [87ff], MISC=16386 (PERF_RECORD_MISC_USER,PERF_RECORD_MISC_EXACT_IP ), Size=184
+	PERF_SAMPLE_IP, IP: 7f6895d96b6b
+	PERF_SAMPLE_TID, pid: 27863  tid 27863
+	PERF_SAMPLE_TIME, time: 16071808172481
+	PERF_SAMPLE_ADDR, addr: 0
+	PERF_SAMPLE_ID, sample_id: 6145
+	PERF_SAMPLE_STREAM_ID, sample_stream_id: 6145
+	PERF_SAMPLE_CPU, cpu: 0  res 0
+	PERF_SAMPLE_PERIOD, period: 10
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 2021056127 running: 2021056127 
+			Value: 562949953421322 id: 6145 
+	PERF_SAMPLE_CALLCHAIN, callchain length: 6
+		 ip[0]: fffffffffffffe00
+		 ip[1]: 7f6895d96b6b
+		 ip[2]: 4020ea
+		 ip[3]: 401618
+		 ip[4]: 7f6895cb1830
+		 ip[5]: 376e258d4c544155
+	PERF_SAMPLE_RAW, Raw length: 4
+		0 0 0 0 
+	PERF_SAMPLE_DATA_SRC, Raw: 5080021
+		Op Not available Level Not available Snoop Not available Locks Not available TLB Not available 

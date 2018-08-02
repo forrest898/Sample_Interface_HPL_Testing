@@ -1,0 +1,67 @@
+PERF_RECORD_SAMPLE [87ff], MISC=2 (PERF_RECORD_MISC_USER), Size=176
+	PERF_SAMPLE_IP, IP: 4020af
+	PERF_SAMPLE_TID, pid: 32061  tid 32061
+	PERF_SAMPLE_TIME, time: 18037084379058
+	PERF_SAMPLE_ADDR, addr: 7ffede8b7028
+	PERF_SAMPLE_ID, sample_id: 7135
+	PERF_SAMPLE_STREAM_ID, sample_stream_id: 7135
+	PERF_SAMPLE_CPU, cpu: 6  res 0
+	PERF_SAMPLE_PERIOD, period: 10
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 1809640341 running: 1809640341 
+			Value: 10 id: 7135 
+	PERF_SAMPLE_CALLCHAIN, callchain length: 5
+		 ip[0]: fffffffffffffe00
+		 ip[1]: 4020af
+		 ip[2]: 401618
+		 ip[3]: 7f3cfe12a830
+		 ip[4]: 376e258d4c544155
+	PERF_SAMPLE_RAW, Raw length: 4
+		0 0 0 0 
+	PERF_SAMPLE_DATA_SRC, Raw: 5080021
+		Op Not available Level Not available Snoop Not available Locks Not available TLB Not available 
+PERF_RECORD_SAMPLE [87ff], MISC=2 (PERF_RECORD_MISC_USER), Size=176
+	PERF_SAMPLE_IP, IP: 4020de
+	PERF_SAMPLE_TID, pid: 32061  tid 32061
+	PERF_SAMPLE_TIME, time: 18037084450271
+	PERF_SAMPLE_ADDR, addr: 7ffede8b7028
+	PERF_SAMPLE_ID, sample_id: 7135
+	PERF_SAMPLE_STREAM_ID, sample_stream_id: 7135
+	PERF_SAMPLE_CPU, cpu: 6  res 0
+	PERF_SAMPLE_PERIOD, period: 10
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 1809654956 running: 1809654956 
+			Value: 10 id: 7135 
+	PERF_SAMPLE_CALLCHAIN, callchain length: 5
+		 ip[0]: fffffffffffffe00
+		 ip[1]: 4020de
+		 ip[2]: 401618
+		 ip[3]: 7f3cfe12a830
+		 ip[4]: 376e258d4c544155
+	PERF_SAMPLE_RAW, Raw length: 4
+		0 0 0 0 
+	PERF_SAMPLE_DATA_SRC, Raw: 5080021
+		Op Not available Level Not available Snoop Not available Locks Not available TLB Not available 
+PERF_RECORD_SAMPLE [87ff], MISC=2 (PERF_RECORD_MISC_USER), Size=184
+	PERF_SAMPLE_IP, IP: 7f3cfe20f938
+	PERF_SAMPLE_TID, pid: 32061  tid 32061
+	PERF_SAMPLE_TIME, time: 18037084468224
+	PERF_SAMPLE_ADDR, addr: 7ffede8b6fa8
+	PERF_SAMPLE_ID, sample_id: 7135
+	PERF_SAMPLE_STREAM_ID, sample_stream_id: 7135
+	PERF_SAMPLE_CPU, cpu: 6  res 0
+	PERF_SAMPLE_PERIOD, period: 10
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 1809662446 running: 1809662446 
+			Value: 10 id: 7135 
+	PERF_SAMPLE_CALLCHAIN, callchain length: 6
+		 ip[0]: fffffffffffffe00
+		 ip[1]: 7f3cfe20f938
+		 ip[2]: 4020ea
+		 ip[3]: 401618
+		 ip[4]: 7f3cfe12a830
+		 ip[5]: 376e258d4c544155
+	PERF_SAMPLE_RAW, Raw length: 4
+		0 0 0 0 
+	PERF_SAMPLE_DATA_SRC, Raw: 5080021
+		Op Not available Level Not available Snoop Not available Locks Not available TLB Not available 
