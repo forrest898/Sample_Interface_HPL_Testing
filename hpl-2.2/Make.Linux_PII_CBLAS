@@ -1,36 +1,36 @@
-#  
-#  -- High Performance Computing Linpack Benchmark (HPL)                
-#     HPL - 2.2 - February 24, 2016                          
-#     Antoine P. Petitet                                                
-#     University of Tennessee, Knoxville                                
-#     Innovative Computing Laboratory                                 
-#     (C) Copyright 2000-2008 All Rights Reserved                       
-#                                                                       
-#  -- Copyright notice and Licensing terms:                             
-#                                                                       
+#
+#  -- High Performance Computing Linpack Benchmark (HPL)
+#     HPL - 2.2 - February 24, 2016
+#     Antoine P. Petitet
+#     University of Tennessee, Knoxville
+#     Innovative Computing Laboratory
+#     (C) Copyright 2000-2008 All Rights Reserved
+#
+#  -- Copyright notice and Licensing terms:
+#
 #  Redistribution  and  use in  source and binary forms, with or without
 #  modification, are  permitted provided  that the following  conditions
-#  are met:                                                             
-#                                                                       
+#  are met:
+#
 #  1. Redistributions  of  source  code  must retain the above copyright
-#  notice, this list of conditions and the following disclaimer.        
-#                                                                       
+#  notice, this list of conditions and the following disclaimer.
+#
 #  2. Redistributions in binary form must reproduce  the above copyright
 #  notice, this list of conditions,  and the following disclaimer in the
-#  documentation and/or other materials provided with the distribution. 
-#                                                                       
+#  documentation and/or other materials provided with the distribution.
+#
 #  3. All  advertising  materials  mentioning  features  or  use of this
-#  software must display the following acknowledgement:                 
+#  software must display the following acknowledgement:
 #  This  product  includes  software  developed  at  the  University  of
-#  Tennessee, Knoxville, Innovative Computing Laboratory.             
-#                                                                       
+#  Tennessee, Knoxville, Innovative Computing Laboratory.
+#
 #  4. The name of the  University,  the name of the  Laboratory,  or the
 #  names  of  its  contributors  may  not  be used to endorse or promote
 #  products  derived   from   this  software  without  specific  written
-#  permission.                                                          
-#                                                                       
-#  -- Disclaimer:                                                       
-#                                                                       
+#  permission.
+#
+#  -- Disclaimer:
+#
 #  THIS  SOFTWARE  IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
 #  ``AS IS'' AND ANY EXPRESS OR IMPLIED WARRANTIES,  INCLUDING,  BUT NOT
 #  LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR
@@ -41,9 +41,9 @@
 #  DATA OR PROFITS; OR BUSINESS INTERRUPTION)  HOWEVER CAUSED AND ON ANY
 #  THEORY OF LIABILITY, WHETHER IN CONTRACT,  STRICT LIABILITY,  OR TORT
 #  (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
-#  OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. 
+#  OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 # ######################################################################
-#  
+#
 # ----------------------------------------------------------------------
 # - shell --------------------------------------------------------------
 # ----------------------------------------------------------------------
@@ -67,12 +67,12 @@ ARCH         = Linux_PII_CBLAS
 # - HPL Directory Structure / HPL library ------------------------------
 # ----------------------------------------------------------------------
 #
-TOPdir       = $(HOME)/static_linpack_testing/hpl-2.2
+TOPdir       = $(HOME)/Documents/static_linpack_testing/hpl-2.2
 INCdir       = $(TOPdir)/include
 BINdir       = $(TOPdir)/bin/$(ARCH)
 LIBdir       = $(TOPdir)/lib/$(ARCH)
 #
-HPLlib       = $(LIBdir)/libhpl.a 
+HPLlib       = $(LIBdir)/libhpl.a
 #
 # ----------------------------------------------------------------------
 # - Message Passing library (MPI) --------------------------------------
@@ -82,7 +82,7 @@ HPLlib       = $(LIBdir)/libhpl.a
 # used. The variable MPdir is only used for defining MPinc and MPlib.
 #
 MPdir        = /usr/lib/
-MPinc        = -I$(MPdir)/mpich/include
+MPinc        = -I$(MPdir)/openmpi/include
 MPlib        = $(MPdir)/libmpi.so
 #
 # ----------------------------------------------------------------------
@@ -92,7 +92,7 @@ MPlib        = $(MPdir)/libmpi.so
 # header files,  LAlib  is defined  to be the name of  the library to be
 # used. The variable LAdir is only used for defining LAinc and LAlib.
 #
-LAdir        = $(HOME)/static_linpack_testing/OpenBLAS
+LAdir        = $(HOME)/Documents/static_linpack_testing/OpenBLAS
 LAinc        =
 LAlib        = $(LAdir)/libopenblas.a
 #
@@ -141,8 +141,8 @@ F2CDEFS      =
 # - HPL includes / libraries / specifics -------------------------------
 # ----------------------------------------------------------------------
 #
-HPL_INCLUDES = -I$(INCdir) -I$(INCdir)/$(ARCH) $(LAinc) $(MPinc) -I ~/static_linpack_testing/papi/src/ -I ~/static_linpack_testing/perfmon2-libpfm4/include
-HPL_LIBS     = $(HPLlib) $(LAlib) $(MPlib) -lrt -lm -ldl -pthread ~/static_linpack_testing/papi/src/libpapi.a -fPIC ../PAPI_sample.o ../parse_record.o ../test_utils.o ../char_replace.o  ~/static_linpack_testing/perfmon2-libpfm4/lib/libpfm.a 
+HPL_INCLUDES = -I$(INCdir) -I$(INCdir)/$(ARCH) $(LAinc) $(MPinc) -I ~/Documents/real_papi/src/testlib/ -I ~/Documents/real_papi/src/ -I ~/Documents/static_linpack_testing/perfmon2-libpfm4/include
+HPL_LIBS     = $(HPLlib) $(LAlib) $(MPlib) -lrt -lm -ldl -pthread ~/Documents/real_papi/papi/src/libpapi.a ~/Documents/real_papi/papi/src/testlib/libtestlib.a -fPIC ~/Documents/static_linpack_testing/perfmon2-libpfm4/lib/libpfm.a
 #
 # - Compile time options -----------------------------------------------
 #
@@ -174,7 +174,7 @@ CCFLAGS      = $(HPL_DEFS) -fomit-frame-pointer -O3 -funroll-loops
 # the Fortran internals used in the BLAS library.
 #
 LINKER       = $(CC)
-LINKFLAGS    = $(CCFLAGS)  
+LINKFLAGS    = $(CCFLAGS)
 #
 ARCHIVER     = ar
 ARFLAGS      = r
