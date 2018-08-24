@@ -1,139 +1,97 @@
 This is a test sentence to prevent locking with malloc
-, MISC=2 (PERF_RECORD_MISC_USER), Size=64
-	PERF_SAMPLE_IP, IP: 7fe93ad4b984
-	PERF_SAMPLE_CPU, cpu: 6  res 0
+PERF_RECORD_SAMPLE [91], MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f1f7b4291c0
+	PERF_SAMPLE_CPU, cpu: 10  res 0
 	PERF_SAMPLE_READ, read_format
-		Number: 1 enabled: 24165649 running: 9533447 
-			Value: 1000 id: 9944 
-, MISC=2 (PERF_RECORD_MISC_USER), Size=64
-	PERF_SAMPLE_IP, IP: 7fe93ad4b984
-	PERF_SAMPLE_CPU, cpu: 6  res 0
+		Number: 1 enabled: 16362687 running: 16362687 
+			Value: 1000 id: 11484 
+PERF_RECORD_SAMPLE [91], MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f1f7b401ffc
+	PERF_SAMPLE_CPU, cpu: 10  res 0
 	PERF_SAMPLE_READ, read_format
-		Number: 1 enabled: 34519438 running: 19887236 
-			Value: 2000 id: 9944 
-, MISC=2 (PERF_RECORD_MISC_USER), Size=64
-	PERF_SAMPLE_IP, IP: 7fe93ad4b9f4
-	PERF_SAMPLE_CPU, cpu: 6  res 0
+		Number: 1 enabled: 27512505 running: 27512505 
+			Value: 2000 id: 11484 
+PERF_RECORD_SAMPLE [91], MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f1f7b4291c0
+	PERF_SAMPLE_CPU, cpu: 10  res 0
 	PERF_SAMPLE_READ, read_format
-		Number: 1 enabled: 45107604 running: 30475402 
-			Value: 3001 id: 9944 
-, MISC=2 (PERF_RECORD_MISC_USER), Size=64
-	PERF_SAMPLE_IP, IP: 7fe93ad4b984
-	PERF_SAMPLE_CPU, cpu: 6  res 0
+		Number: 1 enabled: 38252398 running: 38252398 
+			Value: 3000 id: 11484 
+PERF_RECORD_SAMPLE [91], MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f1f7b401fa7
+	PERF_SAMPLE_CPU, cpu: 10  res 0
 	PERF_SAMPLE_READ, read_format
-		Number: 1 enabled: 54693591 running: 40061389 
-			Value: 4000 id: 9944 
-, MISC=2 (PERF_RECORD_MISC_USER), Size=64
-	PERF_SAMPLE_IP, IP: 7fe93ad4b984
-	PERF_SAMPLE_CPU, cpu: 6  res 0
+		Number: 1 enabled: 49449889 running: 49449889 
+			Value: 4000 id: 11484 
+PERF_RECORD_SAMPLE [91], MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f1f7b416984
+	PERF_SAMPLE_CPU, cpu: 10  res 0
 	PERF_SAMPLE_READ, read_format
-		Number: 1 enabled: 64675172 running: 50042970 
-			Value: 5000 id: 9944 
-, MISC=2 (PERF_RECORD_MISC_USER), Size=64
-	PERF_SAMPLE_IP, IP: 7fe93ad4ae5e
-	PERF_SAMPLE_CPU, cpu: 6  res 0
+		Number: 1 enabled: 62294711 running: 62294711 
+			Value: 5000 id: 11484 
+PERF_RECORD_SAMPLE [91], MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f1f7b416984
+	PERF_SAMPLE_CPU, cpu: 10  res 0
 	PERF_SAMPLE_READ, read_format
-		Number: 1 enabled: 73573601 running: 58941399 
-			Value: 6000 id: 9944 
-, MISC=2 (PERF_RECORD_MISC_USER), Size=64
-	PERF_SAMPLE_IP, IP: 7fe93ad4ad9b
-	PERF_SAMPLE_CPU, cpu: 6  res 0
+		Number: 1 enabled: 73843585 running: 73843585 
+			Value: 6000 id: 11484 
+PERF_RECORD_SAMPLE [91], MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f1f7b416984
+	PERF_SAMPLE_CPU, cpu: 10  res 0
 	PERF_SAMPLE_READ, read_format
-		Number: 1 enabled: 82355498 running: 67723296 
-			Value: 7000 id: 9944 
-, MISC=2 (PERF_RECORD_MISC_USER), Size=64
-	PERF_SAMPLE_IP, IP: 7fe93ad4b984
-	PERF_SAMPLE_CPU, cpu: 6  res 0
+		Number: 1 enabled: 84781251 running: 84781251 
+			Value: 7000 id: 11484 
+PERF_RECORD_SAMPLE [91], MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f1f7b416984
+	PERF_SAMPLE_CPU, cpu: 10  res 0
 	PERF_SAMPLE_READ, read_format
-		Number: 1 enabled: 91412888 running: 76780686 
-			Value: 8000 id: 9944 
-, MISC=2 (PERF_RECORD_MISC_USER), Size=64
-	PERF_SAMPLE_IP, IP: 7fe93ad4b0e5
-	PERF_SAMPLE_CPU, cpu: 6  res 0
+		Number: 1 enabled: 95803363 running: 95803363 
+			Value: 8000 id: 11484 
+PERF_RECORD_SAMPLE [91], MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f1f7b4291c0
+	PERF_SAMPLE_CPU, cpu: 10  res 0
 	PERF_SAMPLE_READ, read_format
-		Number: 1 enabled: 99043988 running: 84411786 
-			Value: 9000 id: 9944 
-, MISC=2 (PERF_RECORD_MISC_USER), Size=64
-	PERF_SAMPLE_IP, IP: 7fe93ad5e0e9
-	PERF_SAMPLE_CPU, cpu: 6  res 0
+		Number: 1 enabled: 101157621 running: 101157621 
+			Value: 9000 id: 11484 
+PERF_RECORD_SAMPLE [91], MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f1f7b416909
+	PERF_SAMPLE_CPU, cpu: 10  res 0
 	PERF_SAMPLE_READ, read_format
-		Number: 1 enabled: 102200885 running: 87568683 
-			Value: 10000 id: 9944 
-, MISC=2 (PERF_RECORD_MISC_USER), Size=64
-	PERF_SAMPLE_IP, IP: 7fe93ad4b984
-	PERF_SAMPLE_CPU, cpu: 6  res 0
+		Number: 1 enabled: 106503969 running: 106503969 
+			Value: 10000 id: 11484 
+PERF_RECORD_SAMPLE [91], MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f1f7b416909
+	PERF_SAMPLE_CPU, cpu: 10  res 0
 	PERF_SAMPLE_READ, read_format
-		Number: 1 enabled: 105895989 running: 91263787 
-			Value: 11000 id: 9944 
-, MISC=2 (PERF_RECORD_MISC_USER), Size=64
-	PERF_SAMPLE_IP, IP: 7fe93ad5e1c0
-	PERF_SAMPLE_CPU, cpu: 6  res 0
+		Number: 1 enabled: 111514624 running: 111514624 
+			Value: 11000 id: 11484 
+PERF_RECORD_SAMPLE [91], MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f1f7b4291ac
+	PERF_SAMPLE_CPU, cpu: 10  res 0
 	PERF_SAMPLE_READ, read_format
-		Number: 1 enabled: 108722989 running: 94090787 
-			Value: 12000 id: 9944 
-, MISC=2 (PERF_RECORD_MISC_USER), Size=64
-	PERF_SAMPLE_IP, IP: 7fe93ad5e1c0
-	PERF_SAMPLE_CPU, cpu: 6  res 0
+		Number: 1 enabled: 116636451 running: 116636451 
+			Value: 12000 id: 11484 
+PERF_RECORD_SAMPLE [91], MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f1f7b4160e5
+	PERF_SAMPLE_CPU, cpu: 10  res 0
 	PERF_SAMPLE_READ, read_format
-		Number: 1 enabled: 111752669 running: 97120467 
-			Value: 13000 id: 9944 
-, MISC=2 (PERF_RECORD_MISC_USER), Size=64
-	PERF_SAMPLE_IP, IP: 7fe93ad4b984
-	PERF_SAMPLE_CPU, cpu: 6  res 0
+		Number: 1 enabled: 122834906 running: 122834906 
+			Value: 13000 id: 11484 
+PERF_RECORD_SAMPLE [91], MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f1f7b416909
+	PERF_SAMPLE_CPU, cpu: 10  res 0
 	PERF_SAMPLE_READ, read_format
-		Number: 1 enabled: 114570594 running: 99938392 
-			Value: 14000 id: 9944 
-, MISC=2 (PERF_RECORD_MISC_USER), Size=64
-	PERF_SAMPLE_IP, IP: 7fe93ad4b909
-	PERF_SAMPLE_CPU, cpu: 6  res 0
+		Number: 1 enabled: 127924826 running: 127924826 
+			Value: 14000 id: 11484 
+PERF_RECORD_SAMPLE [91], MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f1f7b416984
+	PERF_SAMPLE_CPU, cpu: 10  res 0
 	PERF_SAMPLE_READ, read_format
-		Number: 1 enabled: 117520153 running: 102887951 
-			Value: 15000 id: 9944 
-, MISC=2 (PERF_RECORD_MISC_USER), Size=64
-	PERF_SAMPLE_IP, IP: 7fe93ad4b984
-	PERF_SAMPLE_CPU, cpu: 6  res 0
+		Number: 1 enabled: 135001531 running: 135001531 
+			Value: 15000 id: 11484 
+PERF_RECORD_SAMPLE [91], MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7f1f7b4291c0
+	PERF_SAMPLE_CPU, cpu: 10  res 0
 	PERF_SAMPLE_READ, read_format
-		Number: 1 enabled: 120414334 running: 105782132 
-			Value: 16000 id: 9944 
-, MISC=2 (PERF_RECORD_MISC_USER), Size=64
-	PERF_SAMPLE_IP, IP: 7fe93ad4b05d
-	PERF_SAMPLE_CPU, cpu: 6  res 0
-	PERF_SAMPLE_READ, read_format
-		Number: 1 enabled: 124323682 running: 109691480 
-			Value: 17000 id: 9944 
-, MISC=2 (PERF_RECORD_MISC_USER), Size=64
-	PERF_SAMPLE_IP, IP: 7fe93ad4b984
-	PERF_SAMPLE_CPU, cpu: 6  res 0
-	PERF_SAMPLE_READ, read_format
-		Number: 1 enabled: 127512598 running: 112880396 
-			Value: 18000 id: 9944 
-, MISC=2 (PERF_RECORD_MISC_USER), Size=64
-	PERF_SAMPLE_IP, IP: 7fe93ad5e1c0
-	PERF_SAMPLE_CPU, cpu: 6  res 0
-	PERF_SAMPLE_READ, read_format
-		Number: 1 enabled: 130807965 running: 116175763 
-			Value: 19000 id: 9944 
-, MISC=2 (PERF_RECORD_MISC_USER), Size=64
-	PERF_SAMPLE_IP, IP: 7fe93ad5e0e9
-	PERF_SAMPLE_CPU, cpu: 6  res 0
-	PERF_SAMPLE_READ, read_format
-		Number: 1 enabled: 133720428 running: 119088226 
-			Value: 20000 id: 9944 
-, MISC=2 (PERF_RECORD_MISC_USER), Size=64
-	PERF_SAMPLE_IP, IP: 7fe93ad4b984
-	PERF_SAMPLE_CPU, cpu: 6  res 0
-	PERF_SAMPLE_READ, read_format
-		Number: 1 enabled: 136607525 running: 121975323 
-			Value: 21000 id: 9944 
-, MISC=2 (PERF_RECORD_MISC_USER), Size=64
-	PERF_SAMPLE_IP, IP: 7fe93ad4b984
-	PERF_SAMPLE_CPU, cpu: 6  res 0
-	PERF_SAMPLE_READ, read_format
-		Number: 1 enabled: 140059865 running: 125427663 
-			Value: 22000 id: 9944 
-, MISC=2 (PERF_RECORD_MISC_USER), Size=64
-	PERF_SAMPLE_IP, IP: 7fe93ad5e1ac
-	PERF_SAMPLE_CPU, cpu: 6  res 0
-	PERF_SAMPLE_READ, read_format
-		Number: 1 enabled: 143668773 running: 129036571 
-			Value: 23001 id: 9944 
+		Number: 1 enabled: 139977420 running: 139977420 
+			Value: 16000 id: 11484 

@@ -1,37 +1,67 @@
 This is a test sentence to prevent locking with malloc
-, MISC=2 (PERF_RECORD_MISC_USER), Size=64
-	PERF_SAMPLE_IP, IP: 7f4657f34dd7
-	PERF_SAMPLE_CPU, cpu: 10  res 0
+PERF_RECORD_SAMPLE [91], MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7ff9f63fc908
+	PERF_SAMPLE_CPU, cpu: 4  res 0
 	PERF_SAMPLE_READ, read_format
-		Number: 1 enabled: 58662076 running: 24219777 
-			Value: 10 id: 10172 
-, MISC=2 (PERF_RECORD_MISC_USER), Size=64
-	PERF_SAMPLE_IP, IP: 7f4657f34dd7
-	PERF_SAMPLE_CPU, cpu: 10  res 0
+		Number: 1 enabled: 89614 running: 89614 
+			Value: 10 id: 11702 
+PERF_RECORD_SAMPLE [91], MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7ff9f752fb58
+	PERF_SAMPLE_CPU, cpu: 4  res 0
 	PERF_SAMPLE_READ, read_format
-		Number: 1 enabled: 60660383 running: 26218084 
-			Value: 20 id: 10172 
-, MISC=2 (PERF_RECORD_MISC_USER), Size=64
-	PERF_SAMPLE_IP, IP: 7f4657f34dd7
-	PERF_SAMPLE_CPU, cpu: 10  res 0
+		Number: 1 enabled: 495949 running: 495949 
+			Value: 21 id: 11702 
+PERF_RECORD_SAMPLE [91], MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7ff9f640be0e
+	PERF_SAMPLE_CPU, cpu: 4  res 0
 	PERF_SAMPLE_READ, read_format
-		Number: 1 enabled: 62010922 running: 27568623 
-			Value: 30 id: 10172 
-, MISC=2 (PERF_RECORD_MISC_USER), Size=64
-	PERF_SAMPLE_IP, IP: 7f4657f34dd7
-	PERF_SAMPLE_CPU, cpu: 10  res 0
+		Number: 1 enabled: 582725 running: 582725 
+			Value: 30 id: 11702 
+PERF_RECORD_SAMPLE [91], MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7ff9f753fdec
+	PERF_SAMPLE_CPU, cpu: 4  res 0
 	PERF_SAMPLE_READ, read_format
-		Number: 1 enabled: 66830940 running: 32388641 
-			Value: 40 id: 10172 
-, MISC=2 (PERF_RECORD_MISC_USER), Size=64
-	PERF_SAMPLE_IP, IP: 7f4657f34dd7
-	PERF_SAMPLE_CPU, cpu: 10  res 0
+		Number: 1 enabled: 1330310 running: 1330310 
+			Value: 41 id: 11702 
+PERF_RECORD_SAMPLE [91], MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7ff9f644ddd6
+	PERF_SAMPLE_CPU, cpu: 4  res 0
 	PERF_SAMPLE_READ, read_format
-		Number: 1 enabled: 68473664 running: 34031365 
-			Value: 50 id: 10172 
-, MISC=2 (PERF_RECORD_MISC_USER), Size=64
-	PERF_SAMPLE_IP, IP: 7f4657f34dd7
-	PERF_SAMPLE_CPU, cpu: 10  res 0
+		Number: 1 enabled: 2344917 running: 2344917 
+			Value: 50 id: 11702 
+PERF_RECORD_SAMPLE [91], MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 555c81aefc60
+	PERF_SAMPLE_CPU, cpu: 4  res 0
 	PERF_SAMPLE_READ, read_format
-		Number: 1 enabled: 69954641 running: 35512342 
-			Value: 60 id: 10172 
+		Number: 1 enabled: 26967642 running: 26967642 
+			Value: 60 id: 11702 
+PERF_RECORD_SAMPLE [91], MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 7ff9f7127e51
+	PERF_SAMPLE_CPU, cpu: 4  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 31276961 running: 31276961 
+			Value: 70 id: 11702 
+PERF_RECORD_SAMPLE [91], MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 555c81b0ff8b
+	PERF_SAMPLE_CPU, cpu: 4  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 33929121 running: 33929121 
+			Value: 80 id: 11702 
+PERF_RECORD_SAMPLE [91], MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 555c81b0ff8b
+	PERF_SAMPLE_CPU, cpu: 4  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 36303337 running: 36303337 
+			Value: 90 id: 11702 
+PERF_RECORD_SAMPLE [91], MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 555c81b0ff8b
+	PERF_SAMPLE_CPU, cpu: 4  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 38581960 running: 38581960 
+			Value: 100 id: 11702 
+PERF_RECORD_SAMPLE [91], MISC=2 (PERF_RECORD_MISC_USER), Size=64
+	PERF_SAMPLE_IP, IP: 555c81b0ff8b
+	PERF_SAMPLE_CPU, cpu: 4  res 0
+	PERF_SAMPLE_READ, read_format
+		Number: 1 enabled: 40601333 running: 40601333 
+			Value: 110 id: 11702 
